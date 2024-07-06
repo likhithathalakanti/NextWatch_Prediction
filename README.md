@@ -73,3 +73,6 @@ The dataset used is the "9000 Movies Dataset" from Kaggle. It contains the follo
 10. **Most Popular Movie (2015-2016)**:
     - File: `most_popular_2015_2016.png`
     - Description: Bar plot showing the most popular movie between the years 2015 and 2016.
+   
+    ![image](https://github.com/likhithathalakanti/NextWatch_Prediction-Model/assets/43198406/f444ee64-2cd4-4173-8a74-395ff73fe565)
+
