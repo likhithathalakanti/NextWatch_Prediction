@@ -1,0 +1,12 @@
+## Dataset
+The dataset used is the "9000 Movies Dataset" from Kaggle. It contains the following columns:
+- Release Date
+- Title
+- Overview
+- Popularity
+- Vote Count
+- Vote Average
+- Original Language
+- Genre
+- Poster URL
+
